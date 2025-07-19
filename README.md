@@ -9,5 +9,6 @@ Edu_App is a responsive educational platform built using React, Vite, and Tailwi
 - **User-Friendly Interface:** Clean layout with easy navigation.
 - **Modern Tech Stack:** Built with React, Vite, and Tailwind CSS.
 
-https://soft-fox-e7e801.netlify.app/
+### 🚀 Live Demo
+👉 [Live Demo on Netlify](https://soft-fox-e7e801.netlify.app/)
 
