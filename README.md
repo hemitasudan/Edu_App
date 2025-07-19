@@ -9,29 +9,5 @@ Edu_App is a responsive educational platform built using React, Vite, and Tailwi
 - **User-Friendly Interface:** Clean layout with easy navigation.
 - **Modern Tech Stack:** Built with React, Vite, and Tailwind CSS.
 
-## Installation
+https://soft-fox-e7e801.netlify.app/
 
-1. Clone the repository:  
-   `git clone https://github.com/vnv2315/Unihive.git`
-
-2. Navigate into the project directory:  
-   `cd Unihive`
-
-3. Install the dependencies:  
-   `npm install`
-
-4. Run the development server:  
-   `npm run dev`
-
-## Note
-
-Ensure you have Node.js (v14 or higher) installed on your machine before running the project.
-
-
-## 📸 Screenshots
-
-### 🔐 Login Screen
-![Home](assets/Home.png)
-
-### 🏠 Dashboard
-![Feedback](assets/feedback.png)
